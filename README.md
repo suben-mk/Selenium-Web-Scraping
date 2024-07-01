@@ -5,3 +5,8 @@
 [Flow Diagram]
 
 ## Workflow
+_**Python libraries :**_ _Selenium, Pandas, SQLAlchemy_\
+Python script และ process ทั้งหมด [Selenium-LINE_MAN_Wongnai_Users_Choice_2024.py](https://github.com/suben-mk/Selenium-Web-Scraping/blob/main/Selenium-LINE_MAN_Wongnai_Users_Choice_2024.py)
+
+## Output
+ผลลัพธ์ที่ได้จากการดึงข้อมูล รูปแบบไฟล์ database [LineManWongnaiUsersChoice2024.db](https://github.com/suben-mk/Selenium-Web-Scraping/blob/main/LineManWongnaiUsersChoice2024.db)
