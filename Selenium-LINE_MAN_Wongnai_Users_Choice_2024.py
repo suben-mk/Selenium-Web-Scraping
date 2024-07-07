@@ -20,7 +20,7 @@ def scrapWongnai(url):
     uc2024_data = driver.find_elements(By.XPATH, '/html/body/div[1]/div/div/div[1]/div[3]/div[2]/div[2]')
     time.sleep(5) # delay
 
-    # List of 20 LINE MAN Wongnai Users’ Choice 2024
+    # List of 20 restaurant LINE MAN Wongnai Users’ Choice 2024
     for r in uc2024_data:
         try:
             for i in range(1, 21):
